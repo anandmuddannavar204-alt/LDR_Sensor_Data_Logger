@@ -1,0 +1,85 @@
+Time_ms,LDR_Value,Condition
+0,507,Room Light
+1000,501,Room Light
+2000,505,Room Light
+3001,514,Room Light
+4001,521,Room Light
+5002,522,Room Light
+6002,516,Room Light
+7003,508,Room Light
+8003,503,Room Light
+9004,502,Room Light
+10004,512,Room Light
+11004,520,Room Light
+12005,523,Room Light
+13005,519,Room Light
+14006,511,Room Light
+15006,504,Room Light
+16007,503,Room Light
+17007,508,Room Light
+18008,518,Room Light
+19008,523,Room Light
+20009,518,Room Light
+21010,510,Room Light
+22010,504,Room Light
+23011,503,Room Light
+24011,511,Room Light
+25012,519,Room Light
+26012,520,Room Light
+27013,504,Room Light
+28013,498,Room Light
+29014,490,Room Light
+30014,492,Room Light
+31014,501,Room Light
+32015,509,Room Light
+33015,518,Room Light
+52026,115,Covered
+53027,113,Covered
+54027,112,Covered
+55027,114,Covered
+56028,115,Covered
+57028,115,Covered
+58029,112,Covered
+59029,111,Covered
+60029,111,Covered
+61030,111,Covered
+62030,110,Covered
+63031,112,Covered
+64032,109,Covered
+65033,111,Covered
+66033,106,Covered
+67034,107,Covered
+68034,109,Covered
+69035,110,Covered
+70035,110,Covered
+71035,108,Covered
+72036,108,Covered
+73037,109,Covered
+74037,109,Covered
+75037,110,Covered
+76038,102,Covered
+97049,921,Flashlight
+98050,905,Flashlight
+99050,932,Flashlight
+100050,948,Flashlight
+101051,944,Flashlight
+102051,945,Flashlight
+103052,942,Flashlight
+104052,942,Flashlight
+105054,939,Flashlight
+106054,939,Flashlight
+107055,939,Flashlight
+108055,934,Flashlight
+109056,933,Flashlight
+110056,936,Flashlight
+111056,935,Flashlight
+112057,933,Flashlight
+113057,933,Flashlight
+114059,839,Flashlight
+115059,866,Flashlight
+116060,918,Flashlight
+117060,904,Flashlight
+118061,919,Flashlight
+119061,935,Flashlight
+120061,930,Flashlight
+121062,929,Flashlight
